@@ -1,0 +1,10 @@
+#COMANDOS BÁSICOS PARA O GITBASH/GITHUB#
+________________________________________
+
+git status : verifica o status dos arquivos.
+git add .  : adiciona todos os arquivos para serem commitados.
+git commit -m'sua mensagem' : commita o(s) arquivo(s) e adiciona uma mensagem ao mesmo.
+git push origin master : envia todos os arquivs comitados para seu repositório on-line ja previamente configurado.
+
+
+Para configurar um novo repositório no github ou configurar seu computador para acessar um ja existente acesse o vídeo do Vedolli no YouTube: http://www.youtube.com/watch?v=_Ci1q53DgvY 
